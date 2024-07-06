@@ -6,7 +6,7 @@
 Este projeto faz parte da disciplina tal Projeto Integrador 2, onde estamos abordando conceitos básicos da utilização do git e git-hub e criação de currículo.
 
 # CÚRRICULO BÁSICO
-("www.linkedin.com/in/herbert-natan-alves-de-souza-8479bb303")
+[Perfil no Linkedin]("www.linkedin.com/in/herbert-natan-alves-de-souza-8479bb303")
 ## DADOS PESSOAIS
 
 Nome: Herbert Natan Alves de Souza\
