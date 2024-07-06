@@ -16,8 +16,8 @@ E-mail: herbertnatan26@gmail.com
 
 ## FORMAÇÃO ACADÊMICA
 
-Ensino Fundamental concluido em 2021 - Escola Estadual Francisca Mendes\.
-Autualmente cursa Técnico em Informática - Instituto Federal do Amazonas Campus Eirunepé
+Ensino Fundamental concluido em 2021 - Escola Estadual Francisca Mendes\
+Atualmente cursa Técnico em Informática - Instituto Federal do Amazonas Campus Eirunepé
 
 ## FORMAÇÃO COMPLEMENTAR
 
